@@ -18,7 +18,7 @@ Perfect for learning advanced CSS animations and visual effects!
 
 ## 📸 Preview
 
-rotation.png 
+![Preview](rotation.png) 
 
 ---
 
